@@ -1,0 +1,6 @@
+fruit		apple		RM2.5		10OCT2022		
+fruit		orange		RM4.0		13OCT2022		
+drinks		cola		RM2.5		01JAN2023		
+drinks		pepsi		RM3.5		02JAN2023		
+snack		mamee		RM1.5		12DEC2022		
+snack		oreo		RM3.0		20DEC2022		

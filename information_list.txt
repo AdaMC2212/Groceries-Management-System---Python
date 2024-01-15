@@ -1,0 +1,5 @@
+adam		kl		adam@gmail.com		123456767		22DEC2003		adamc		adamc123		
+jason		johor		jason@gmail.com		1234566787		20OCT2003		jason		jason1				
+minghang		kl		mh@gmail.com		1002002222		23JUL2003		mh		mh123		
+	
+chia		penang		chia@gmail.com		12345777		02FEB2001		chia		chia.123		
